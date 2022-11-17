@@ -20,4 +20,3 @@ Usage:
 - Experiment and read the manual
 Example:
 ```$ ls -l /tmp```
-

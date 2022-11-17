@@ -21,4 +21,3 @@ Usage:
 Example:
 ```$ ls -l /tmp```
 
-
